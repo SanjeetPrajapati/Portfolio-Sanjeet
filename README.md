@@ -11,8 +11,8 @@ This is a simple and responsive **React Contact Form** that uses **EmailJS** to 
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/your-username/contact-form-emailjs.git
-cd contact-form-emailjs
+git clone https://github.com/SanjeetPrajapati/Portfolio-Sanjeet.git
+cd Portfolio-Sanjeet
 
     Install dependencies
 
